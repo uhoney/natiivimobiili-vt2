@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="result">Body mass index is %s</string>
+    <string name="ref_under">underweight</string>
+    <string name="ref_normal">in normal range</string>"
+    <string name="ref_ob0">overweight</string>"
+    <string name="ref_ob1">significantly obese</string>
+    <string name="ref_ob2">severely obese</string>
+    <string name="ref_ob3">morbidly obese</string>
+</resources>
